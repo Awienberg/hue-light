@@ -1,0 +1,16 @@
+main {
+    padding: 50px;
+}
+.submit {
+    background-color: #202020;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    margin: 5px 0px;
+    cursor: pointer;
+}
+.input {
+    padding: 10px 20px;
+    margin: 5px 0px;
+}
